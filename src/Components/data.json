@@ -1,0 +1,267 @@
+[
+    {
+        "title": "Formula Sheets",
+        "disciplines": [
+            {
+                "title": "Engineering",
+                "type": [
+                    {
+                        "title": "Chemical",
+                        "courses": [
+                            {
+                                "name": "Thermodynamics",
+                                "pdfPath": "/pdf/Thermodynamics.pdf"
+                            },
+                            {
+                                "name": "Materials Processing",
+                                "pdfPath": ""
+                            }
+                        ]
+                        
+                    },
+                    {
+                        "title": "Computer",
+                        "courses": [
+                            {
+                                "name": "Computer Architecture",
+                                "pdfPath": ""
+                            },
+                            {
+                                "name": "Microprocessor Systems",
+                                "pdfPath": ""
+                            }
+                        ]
+                        
+                    },
+                    {
+                        "title": "Electrical",
+                        "courses": [
+                            {
+                                "name": "Circuits and Systems",
+                                "pdfPath": ""
+                            },
+                            {
+                                "name": "Math For EE",
+                                "pdfPath": "/pdf/Math for EE.pdf"
+                            },
+                            {
+                                "name": "Electronic Circuits",
+                                "pdfPath": "/pdf/Electronic Circuits.pdf"
+                            },
+                            {
+                                "name": "Signals and Systems",
+                                "pdfPath": ""
+                            }
+                        ]
+                        
+                    },
+                    {
+                        "title": "Mechanical",
+                        "courses": [
+                            {
+                                "name": "Mechanics of Solids",
+                                "pdfPath": ""
+                            }
+                        ]
+                        
+                    },
+                    {
+                        "title": "General",
+                        "courses": [
+                            {
+                                "name": "Engineering Graphics",
+                                "pdfPath": ""
+                            }
+                        ]
+                        
+                    }
+                ]
+            },
+            {
+                "title": "Math",
+                "type": [
+                    {
+                        "title": "Prerequisits",
+                        "courses": [
+                            {
+                                "name": "Algebra",
+                                "pdfPath": ""
+                            }
+                        ]
+                        
+                    },
+                    {
+                        "title": "Calculus",
+                        "courses": [
+                            {
+                                "name": "Differential",
+                                "pdfPath": ""
+                            },
+                            {
+                                "name": "Integral",
+                                "pdfPath": ""
+                            },
+                            {
+                                "name": "Series, Vectors, Functions, and Surfaces",
+                                "pdfPath": ""
+                            },
+                            {
+                                "name": "Calculus of Two Variables",
+                                "pdfPath": ""
+                            }
+                        ]
+                        
+                    },
+                    {
+                        "title": "Number Theory",
+                        "courses": [
+                            {
+                                "name": "Discrete Math",
+                                "pdfPath": ""
+                            },
+                            {
+                                "name": "Probability and Statistics",
+                                "pdfPath": "/pdf/Probability and Statistics.pdf"
+                            }
+                        ]
+                        
+                    },
+                    {
+                        "title": "High Order",
+                        "courses": [
+                            {
+                                "name": "Differential Equations",
+                                "pdfPath": "/pdf/Differential Equations.pdf"
+                            },
+                            {
+                                "name": "Math for EE",
+                                "pdfPath": ""
+                            }
+                        ]
+                        
+                    }
+                ]
+            },
+            {
+                "title": "Science",
+                "type": [
+                    {
+                        "title": "Chemistry",
+                        "courses": [
+                            {
+                                "name": "General Chemistry I",
+                                "pdfPath": "/pdf/Chempdf.pdf"
+                            },
+                            {
+                                "name": "General Chemistry II",
+                                "pdfPath": "/pdf/Chempdf.pdf"
+                            },
+                            {
+                                "name": "Materials Processing",
+                                "pdfPath": ""
+                            }
+                        ]
+                        
+                    },
+                    {
+                        "title": "Physics",
+                        "courses": [
+                            {
+                                "name": "Electricity and Magnetism",
+                                "pdfPath": "/pdf/Physicspdf.pdf"
+                            },
+                            {
+                                "name": "Mechanics",
+                                "pdfPath": "/pdf/Mechanics.pdf"
+                            }
+                        ]
+                        
+                    },
+                    {
+                        "title": "Biology",
+                        "courses": [
+                            {
+                                "name": "Biology",
+                                "pdfPath": ""
+                            }
+                        ]
+                        
+                    },
+                    {
+                        "title": "Computer",
+                        "courses": [
+                            {
+                                "name": "Introduction to Programming",
+                                "pdfPath": ""
+                            }
+                        ]
+                        
+                    }
+                ]
+            },
+            {
+                "title": "Resources",
+                "type": [
+                    {
+                        "title": "Operating Systems",
+                        "courses": [
+                            {
+                                "name": "Windows",
+                                "pdfPath": ""
+                            },
+                            {
+                                "name": "MAC",
+                                "pdfPath": ""
+                            },
+                            {
+                                "name": "Linux",
+                                "pdfPath": ""
+                            }
+                        ]
+                        
+                    },
+                    {
+                        "title": "Software",
+                        "courses": [
+                            {
+                                "name": "MATLAB",
+                                "pdfPath": "/pdf/MATLAB.pdf"
+                            },
+                            {
+                                "name": "Microsoft Office",
+                                "pdfPath": ""
+                            }
+                        ]
+                        
+                    },
+                    {
+                        "title": "Programming Languages",
+                        "courses": [
+                            {
+                                "name": "Python",
+                                "pdfPath": ""
+                            },
+                            {
+                                "name": "C++",
+                                "pdfPath": ""
+                            },
+                            {
+                                "name": "HTML",
+                                "pdfPath": ""
+                            },
+                            {
+                                "name": "CSS",
+                                "pdfPath": ""
+                            },
+                            {
+                                "name": "JavsScript",
+                                "pdfPath": ""
+                            }
+                        ]
+                        
+                    }
+                ]
+            }
+        ]
+    }
+]

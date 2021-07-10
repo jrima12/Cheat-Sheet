@@ -1,0 +1,16 @@
+.pdfDisplay{
+    float:center;
+    margin-right: 2%;
+    margin-left: 400px;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+button{
+    background-color: rgb(199, 191, 191);
+    border-color: rgb(0, 0, 0);
+    width: 80px;
+    height: 30px;
+    margin: 2px;
+    border-radius: 15px;
+}
